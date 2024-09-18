@@ -8,7 +8,7 @@ copy this code: `npm install -g vsce` open your terminal inside the source code 
 `vsce package --baseContentUrl . --baseImagesUrl '/images'`
 
 published to vsix for installation
-`vsce package --baseContentUrl https://github.com/ShahebAli247bd/vscode-ext-email-template-generator --baseImagesUrl https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images`
+`vsce package --baseContentUrl https://github.com/ShahebAli247bd/email-template-generator-snippet --baseImagesUrl https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images`
 
 ## Publish Your Extension
 
@@ -21,7 +21,7 @@ and
 
 ### Basic HTML Structure
 
-![Basic HTML Structure](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/basic-html-structure.png)
+![Basic HTML Structure](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/basic-html-structure.png)
 
 This snippet provides a basic HTML structure with meta tags, CSS styles, and placeholders for your content. With Darkmode Enable
 
@@ -29,7 +29,7 @@ This snippet provides a basic HTML structure with meta tags, CSS styles, and pla
 
 ### Table with Both Side 20px Space
 
-![Table with Both Side 20px Space](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/table-both-side-space.png)
+![Table with Both Side 20px Space](https://github.com/ShahebAli247bd/email-template-generator-snippet/images/table-both-side-space.png)
 
 This snippet generates a basic HTML table with 20px space on both sides.
 
@@ -37,7 +37,7 @@ This snippet generates a basic HTML table with 20px space on both sides.
 
 ### Header 3 Part 4 Link with Logo
 
-![Header with 3 Part 4 Link and Logo](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/header-3part-4link-logo.png)
+![Header with 3 Part 4 Link and Logo](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/header-3part-4link-logo.png)
 
 Creates a header with three parts including four links and a logo.
 
@@ -45,7 +45,7 @@ Creates a header with three parts including four links and a logo.
 
 ### Header Logo Only in Center
 
-![Header with Logo Only in Center](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/header-logo-center.png)
+![Header with Logo Only in Center](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/header-logo-center.png)
 
 Generates a header with a logo centered.
 
@@ -53,7 +53,7 @@ Generates a header with a logo centered.
 
 ### Fluid Hero Image
 
-![Fluid Hero Image](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/fluid-hero-image.png)
+![Fluid Hero Image](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/fluid-hero-image.png)
 
 Inserts a fluid hero image placeholder.
 
@@ -61,7 +61,7 @@ Inserts a fluid hero image placeholder.
 
 ### Spacer Height 30px
 
-![Spacer Height 30px](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/spacer-height-30px.png)
+![Spacer Height 30px](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/spacer-height-30px.png)
 
 Adds a spacer with a height of 30px.
 
@@ -69,7 +69,7 @@ Adds a spacer with a height of 30px.
 
 ### @ Symbol UTF8 and Sup
 
-![@ Symbol UTF8 and Sup](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/at-symbol-sup.png)
+![@ Symbol UTF8 and Sup](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/at-symbol-sup.png)
 
 Inserts the @ symbol with UTF8 and Superscript.
 
@@ -77,7 +77,7 @@ Inserts the @ symbol with UTF8 and Superscript.
 
 ### Outlook Hack Code !mso
 
-![Outlook Hack Code !mso](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/outlook-hack-code.png)
+![Outlook Hack Code !mso](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/outlook-hack-code.png)
 
 Provides a snippet for Outlook hack code.
 
@@ -85,13 +85,13 @@ Provides a snippet for Outlook hack code.
 
 ### 3 Blue Link Inline
 
-![3 Blue Link Inline](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/3-blue-link-inline.png)
+![3 Blue Link Inline](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/3-blue-link-inline.png)
 
 **Shortcode:** `!SA-HTML-F-3-Blue-Link-Inline`
 
 ### 3 Line Lorem Ipsum Dummy Copy
 
-![3 Line Lorem Ipsum Dummy Copy](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/3-line-lorem-ipsum.png)
+![3 Line Lorem Ipsum Dummy Copy](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/3-line-lorem-ipsum.png)
 
 Generates three lines of Lorem Ipsum dummy text.
 
@@ -105,7 +105,7 @@ Adds a copyright statement.
 
 @ Copyright 20..
 
-![Template Can Make Like this](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/tree/main/images/images/template-can-made-like-this.png)
+![Template Can Make Like this](https://github.com/ShahebAli247bd/email-template-generator-snippet/tree/main/images/template-can-made-like-this.png)
 
 ## Using this extension easily with in 1 or 2 min you can create like this template fully responsive with 90 Mejor email client compitable with darkmode support.
 
@@ -132,4 +132,4 @@ If you encounter any issues or have suggestions for improvement, please feel fre
 
 This extension is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-For more information, see the [LICENSE](https://github.com/ShahebAli247bd/vscode-ext-email-template-generator/LICENSE) file.
+For more information, see the [LICENSE](https://github.com/ShahebAli247bd/email-template-generator-snippet/LICENSE) file.
