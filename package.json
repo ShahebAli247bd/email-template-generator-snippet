@@ -1,0 +1,32 @@
+{
+	"name": "emailgenerator",
+	"displayName": "Magic Email Template Generator",
+	"description": "Magic Responsive Email Template Generator Just !Select the snippets, update copy and image and its done for blusting with darkmode compitability",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.89.0"
+	},
+	"repository": {
+		"type": "git",
+		"utl": "https://github.com/ShahebAli247bd/vscode-ext-email-template-generator.git"
+	},
+	"publisher": "Shaheb Ali, Web Application Developer, Dhaka, Bangladesh",
+	"icon": "icon.png",
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1720005976473,
+		"source": "vsix",
+		"isApplicationScoped": false,
+		"pinned": false
+	}
+}
